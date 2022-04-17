@@ -7,6 +7,6 @@ public class classC extends classB{
     }
     public void ff()
     {
-        System.out.println(( (classA)this).x + " "+super.x+" "+ x  );
+        System.out.println(( (classA)this).x + " "+super.x+" "+ x  ); /// (className)this.variable is used to access the upper ancestors.
     }
 }
