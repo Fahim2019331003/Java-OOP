@@ -25,7 +25,7 @@ public class Square implements Rectangle,Attributes {  //can implement multiple 
     @Override
     public boolean isSquare()
     {
-        return true;
+        return p;
     }
     
     @Override

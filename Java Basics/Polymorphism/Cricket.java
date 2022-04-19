@@ -1,5 +1,5 @@
 public class Cricket extends Game{
-    int run=0;
+    public int run=0;
 
     Cricket()
     {   

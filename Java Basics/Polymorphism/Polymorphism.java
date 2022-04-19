@@ -15,5 +15,10 @@ public class Polymorphism {
             
         }
 
+        //System.out.println(g[1].run);
+        //can't access run.
+
+        ///but access overridden methods.
+
     }
 }
